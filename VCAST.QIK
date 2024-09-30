@@ -1,0 +1,33 @@
+--  QuickParse File Version: QP_ALL_DEFINED_ENTITIES  --
+HOME_DIRECTORY C:\Users\Lenovo\Desktop\ddd\macro\rt
+BEGIN_RECORD smtrc.cpp
+CHECKSUM 862372413
+BLACKLIST FALSE
+DEFINED_OBJECTS
+   __CPR797___M_create__Q3_3std7__cxx1178basic_string__tm__58_gQ2_3std20char_traits__tm__2_gQ2_3std18allocator__tm__2_gFRQ3_9__gnu_cxx204__alloc_traits__tm__181_Q4_J111J44__alloc_traits__tm__22_Z3ZQ2_Z3Z10value_type17rebind__tm__4_Z1Z5otherQ5_J111JJ161JJ207JJ226JJ195J9size_typeQ3_J111JJ121JJ328J_Q3_J111JJ121J7pointer
+   __CPR797___M_create__Q3_3std7__cxx1178basic_string__tm__58_kQ2_3std20char_traits__tm__2_kQ2_3std18allocator__tm__2_kFRQ3_9__gnu_cxx204__alloc_traits__tm__181_Q4_J111J44__alloc_traits__tm__22_Z3ZQ2_Z3Z10value_type17rebind__tm__4_Z1Z5otherQ5_J111JJ161JJ207JJ226JJ195J9size_typeQ3_J111JJ121JJ328J_Q3_J111JJ121J7pointer
+   ut1__Fv
+   x__Fv
+CALLED_OBJECTS
+STATIC_MEMBERS_DECLARED
+STATIC_MEMBERS_NEEDED
+GLOBAL_OBJECTS_NEEDED
+GLOBAL_OBJECTS_DEFINED
+END_RECORD smtrc.cpp
+BEGIN_RECORD test1.cpp
+CHECKSUM 1501357118
+BLACKLIST FALSE
+DEFINED_OBJECTS
+   testYour_int__Fi
+   test__Fi
+   test_struct1__F5TEST1
+   test_struct__F5TEST1
+   unitest1__Fi
+   ut1__Fi
+   ut2__Fi
+CALLED_OBJECTS
+STATIC_MEMBERS_DECLARED
+STATIC_MEMBERS_NEEDED
+GLOBAL_OBJECTS_NEEDED
+GLOBAL_OBJECTS_DEFINED
+END_RECORD test1.cpp
